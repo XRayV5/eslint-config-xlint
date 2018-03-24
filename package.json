@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xlint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "eslint config of Dev XRay ",
   "main": "index.js",
   "scripts": {
